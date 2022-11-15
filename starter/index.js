@@ -96,11 +96,9 @@ for (var i = 0; i < finances.length; i++) {
 
 var averageChange = totalRevenue/total_months
 
-
 console.log("Financial Analysis")
 console.log("----------------------------");
 console.log("Total Months: " + total_months);
 console.log("Total: " + totalRevenue);
 console.log("Average Change: " + averageChange);
 
-    
